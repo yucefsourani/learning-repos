@@ -1,4 +1,4 @@
-# مواقع مستودعات مفيدة لمواضيع ومجالات متفرقة
+# مواقع و مستودعات مفيدة لمواضيع ومجالات متفرقة
 
 - [Python Cheatsheet](https://github.com/BisratYalew/python-cheatsheet/)
 
