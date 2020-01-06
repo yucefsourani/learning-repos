@@ -1,5 +1,9 @@
 # مواقع و مستودعات مفيدة لمواضيع ومجالات متفرقة
 
+- [itwadi Books كتب وادي التقنية](https://itwadi.com/books/)
+
+- [Learn to program with C_AR كتاب مترجم للعربية](https://github.com/Hamza5/Learn-to-program-with-C_AR/)
+
 - [Python Cheatsheet](https://github.com/BisratYalew/python-cheatsheet/)
 
 - [Awesome Startup Credits](https://github.com/dakshshah96/awesome-startup-credits/)
@@ -20,4 +24,4 @@
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/)
 
-- [itwadi Books كتب وادي التقنية](https://itwadi.com/books/)
+
