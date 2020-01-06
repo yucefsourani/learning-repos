@@ -1,4 +1,4 @@
-# مستودعات مفيدة لمواضيع ومجالات متفرقة
+# مواقع مستودعات مفيدة لمواضيع ومجالات متفرقة
 
 - [Python Cheatsheet](https://github.com/BisratYalew/python-cheatsheet/)
 
@@ -19,3 +19,5 @@
 - [Stanford cs 229 Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning/)
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/)
+
+- [itwadi Books كتب وادي التقنية](https://itwadi.com/books/)
