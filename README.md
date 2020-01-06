@@ -19,5 +19,3 @@
 - [Stanford cs 229 Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning/)
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/)
-
-- 
