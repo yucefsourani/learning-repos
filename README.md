@@ -24,4 +24,6 @@
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/)
 
+- [Project Based Learning](https://github.com/tuvtran/project-based-learning/)
+
 
