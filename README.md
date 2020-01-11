@@ -4,6 +4,8 @@
 
 - [Learn to program with C_AR كتاب مترجم للعربية](https://github.com/Hamza5/Learn-to-program-with-C_AR/)
 
+- [Explore Flask كتاب إكتشف فلاسك مترجم للعربية](https://ahmadnourallah.github.io/exploreflask/)
+
 - [Python Cheatsheet](https://github.com/BisratYalew/python-cheatsheet/)
 
 - [Awesome Startup Credits](https://github.com/dakshshah96/awesome-startup-credits/)
@@ -25,5 +27,3 @@
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/)
 
 - [Project Based Learning](https://github.com/tuvtran/project-based-learning/)
-
-
