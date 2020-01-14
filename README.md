@@ -10,6 +10,8 @@
 
 - [Python Cheatsheet](https://github.com/BisratYalew/python-cheatsheet/)
 
+- [Awesome Flask](https://github.com/humiaozuzu/awesome-flask/)
+
 - [Awesome Startup Credits](https://github.com/dakshshah96/awesome-startup-credits/)
 
 - [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools/)
