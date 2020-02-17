@@ -31,3 +31,5 @@
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/)
 
 - [Project Based Learning](https://github.com/tuvtran/project-based-learning/)
+
+- [Git Tips](https://github.com/git-tips/tips/)
